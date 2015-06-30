@@ -23,7 +23,7 @@ There are basically 3 modules in this REST Web Service:
 
 ### Accessing the App:
 - [ ] The web service is deployed on Amazon EC2 instance and can be access using:
-      http://ec2-52-26-0-8.us-west-2.compute.amazonaws.com:8080/message_poster/webapi
+      http://ec2-52-26-0-8.us-west-2.compute.amazonaws.com:8080/message_poster
 - [ ] To access various features :
 	- [ ] List messages :
 	
